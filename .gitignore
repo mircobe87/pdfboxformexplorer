@@ -1,0 +1,5 @@
+.idea/
+PDFFormExplorer.iml
+dependency-reduced-pom.xml
+src/main/resources/
+target/
